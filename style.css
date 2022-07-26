@@ -13,7 +13,7 @@ main {
     background: url(bg.avif) no-repeat center center/cover;
 }
 .container{
-    background-color: #ffffffcf;
+    background: linear-gradient( 45deg, #ffffffe1, #51a7c4d8);
     width: 100%;
     height: 100vh;
     display: flex;
@@ -32,7 +32,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0px 20px;
+    padding: 0px 10px;
 }
 .head input{
    outline: none;
